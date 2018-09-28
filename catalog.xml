@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://speller.yandex.net/services/spellservice?WSDL" uri="src/conf/xml-resources/web-services/YaSpellerWSFromWSDL/wsdl/speller.yandex.net/services/spellservice.wsdl"/>
+</catalog>
